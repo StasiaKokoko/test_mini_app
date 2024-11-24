@@ -1,0 +1,7 @@
+.gradient-light {
+  background: linear-gradient(145deg, #f0f4ff 0%, #f8fafc 50%, #e0e7ff 100%);
+}
+
+.gradient-dark {
+  background: linear-gradient(145deg, #1a1b26 0%, #292d3e 50%, #3b4252 100%);
+} 

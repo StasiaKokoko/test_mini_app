@@ -16,7 +16,7 @@ function MainButton({ onClick }) {
         marginRight: 'auto',
         width: 'fit-content',
         backgroundColor: '#ffffff',
-        color: '#3b82f6',
+        color: '#4F46E5',
         padding: '16px 32px',
         borderRadius: '50px',
         fontSize: '16px',

@@ -1,7 +1,7 @@
 export const mainStyle = {
   width: '100%',
   height: '100vh',
-  background: 'linear-gradient(180deg, #3b82f6, #8b5cf6)',  // Розово-голубой
+  background: 'linear-gradient(180deg, #4F46E5, #818CF8)',
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'center',
